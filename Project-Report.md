@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-## 👤 Student Details
+##  Student Details
 - Name: Shyamak Sharma
 - Reg No: 25BAI10739
 - Branch: CSE (AI & ML)
